@@ -1,2 +1,5 @@
 # Esse repositório destina-se a colocar as aulas das Pyladies.
-Beleza, continuamos...
+
+### Requerimentos 
+- Colab
+- Saber Python
